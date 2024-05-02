@@ -1,1 +1,1 @@
-DON'T COMMIT ANY CHANGES DIRECTLY WITHOUT CHECKING FOR CONFLICTS
+Don't commit without checkign for conflicts
