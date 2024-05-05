@@ -1,7 +1,4 @@
-# Prototype 1 Notes
-- Assuming static damage
-- Assuming all abilities + x aa are hit
-- Accounts for items and runes
-
+# Purpose
+This calculator should make it easy for people to do quick damage calculations based on current in-game data
 
 
